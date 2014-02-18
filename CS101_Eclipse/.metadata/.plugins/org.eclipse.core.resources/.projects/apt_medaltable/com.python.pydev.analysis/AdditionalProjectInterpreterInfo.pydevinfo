@@ -1,0 +1,78 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\apt_medaltable\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+MedalTableDraft|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Compsci 6\apt_medaltable\src\MedalTableDraft.py
+MedalTable|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Compsci 6\apt_medaltable\src\MedalTable.py
+ETester|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Compsci 6\apt_medaltable\src\ETester.py
+Parse|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Compsci 6\apt_medaltable\src\Parse.py
+StoppableThread|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Compsci 6\apt_medaltable\src\StoppableThread.py
+-- END DISKCACHE
+-- START DICTIONARY
+18
+3=MedalTable
+11=Parse.matchString
+15=StoppableThread._get_my_tid
+8=Parse.matchStringList
+12=Parse.matchLong
+18=Tester.__init__
+17=Parse.next
+16=Tester.work
+9=Parse.matchDoubleList
+14=Parse.matchDouble
+2=StoppableThread
+4=MedalTableDraft
+10=Parse.matchIntList
+1=ETester
+5=Parse
+13=Parse.matchInt
+6=Tester
+7=Parse.__init__
+-- END DICTIONARY
+-- START TREE 1
+11
+_al|1|_ALLPASS!11@
+_as|1|_async_raise!18@
+_ru|1|_RUNSECS!11@
+_td|3|_TDEND!11@_TDPASS!11@_TDFAIL!11@
+_tr|1|_TRSTART!11@
+cou|2|CountryMedalDictionary!26@CountryMedalDictionary!34@
+gen|2|generate!34@generate!26@
+mai|1|main!10@
+par|1|Parse!41@
+sto|1|StoppableThread!17@
+tes|1|Tester!9@
+-- END TREE
+-- START TREE 2
+30
+__i|2|__init__!5&42@__init__!6&10@
+_ge|1|_get_my_tid!2&18@
+_ok|8|_ok!7&43@_ok!8&43@_ok!9&43@_ok!10&43@_ok!11&43@_ok!12&43@_ok!13&43@_ok!14&43@
+_th|1|_thread_id!15&19@
+don|1|done!16&11@
+dop|1|doprint!6&10@
+dou|1|double!5&42@
+eob|1|eobj!16&11@
+fil|1|file!7&43@
+get|4|getDouble!5&42@getInt!5&42@getString!5&42@getLong!5&42@
+int|1|int!5&42@
+isc|1|isComma!5&42@
+ise|1|isEnd!5&42@
+isl|1|isLeftBracket!5&42@
+isr|1|isRightBracket!5&42@
+lon|1|long!5&42@
+mat|7|matchString!5&42@matchInt!5&42@matchDouble!5&42@matchLong!5&42@matchStringList!5&42@matchDoubleList!5&42@matchIntList!5&42@
+nex|2|next!5&42@nextInt!5&42@
+num|1|num!17&43@
+ok|1|ok!5&42@
+par|3|parseVI!5&42@parseVS!5&42@parseVD!5&42@
+pri|3|printString!5&42@printList!5&42@printNum!5&42@
+rai|1|raise_exc!2&18@
+res|3|result!16&11@resultReturned!16&11@resultReturned!18&11@
+run|2|runtime!16&11@runtime!18&11@
+str|3|string!7&43@string!17&43@stringize!5&42@
+ter|1|terminate!2&18@
+tok|2|tokenizer!7&43@token!17&43@
+typ|1|typeOk!16&11@
+wor|1|work!6&10@
+-- END TREE

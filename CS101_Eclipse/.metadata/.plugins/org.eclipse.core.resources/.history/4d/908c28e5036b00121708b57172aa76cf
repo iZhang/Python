@@ -1,0 +1,164 @@
+'''
+Created on Jan 30, 2013
+
+@author: Jimmy
+'''
+def hair_bartsimpson():
+    x = r"123456789012345"
+    h0= r"|/\/\/\/\/\/\/|"
+    h1= r"|             |"
+    return h0 + "\n" + h1
+
+def hair_margesimpson():
+    x = r"123456789012345"
+    h0= r"  ###########  "
+    h1= r" ############# "
+    h2= r"###############"
+    return h0 + "\n" + h1 + "\n" + h2 + "\n" + h2 + "\n" + h2 + "\n" + h2 + "\n" + h2
+
+def hair_homersimpson():
+    x = r"123456789012345"
+    h0= r" ______@______ "  
+    h1= r"/             \"
+    h2= r"|             |"
+    return h0 + "\n" + h1 + "\n" + h2
+
+def hair_reversefauxhawk():
+    x = r"123456789012345"
+    h0= r"|||||\    /||||"
+    h1= r"|||||\   /|||||"
+    h2= r"|||||\  /||||||"
+    h3= r"|||||\ /|||||||"  
+    h4= r"|||||\/||||||||"
+    h5= r"|||||||||||||||"    
+    return h0 + "\n" + h1 + "\n" + h2 + "\n" + h3 + "\n" + h4 + "\n" + h5
+
+def eyes_generic():
+    x  = r"123456789012345"
+    e0 = r" _____    ____ "
+    e1 = r"/     \  /    \"
+    e2 = r"|  0  | |  0  |"
+    e3 = r"\____/  \____/ " 
+    return e0 + "\n" + e1 + "\n" + e2 + "\n" + e3
+
+def eyes_goofy():
+    x  = r"123456789012345"
+    e0 = r" _____    ____ "
+    e1 = r"/     \  /   0\"
+    e2 = r"|0    | |     |"
+    e3 = r"\____/  \____/ " 
+    return e0 + "\n" + e1 + "\n" + e2 + "\n" + e3
+
+def eyes_cyclops():
+    x  = r"123456789012345"
+    e0 = r"     _____     "
+    e1 = r"    /     \    "
+    e2 = r"    |  0  |    "
+    e3 = r"    \____/     " 
+    return e0 + "\n" + e1 + "\n" + e2 + "\n" + e3
+
+def eyes_cute():
+    x  = r"123456789012345"
+    e0 = r" _____    ____ "
+    e1 = r"/  __ \  / __ \"
+    e2 = r"| ||| | | ||| |"
+    e3 = r"|_|||_| |_|||_|" 
+    return e0 + "\n" + e1 + "\n" + e2 + "\n" + e3
+
+
+def sides():
+    x  = "123456789012345"
+    s0 = "|             |"
+    return s0
+    
+def mouth_unimpressed():
+    x  = r"123456789012345"
+    m0 = r"|   ____   |"
+    return m0
+
+def mouth_smile():
+    x  = r"123456789012345"
+    m0 = r"|  \____/  |"
+    return m0
+
+def mouth_sad():
+    x  = r"123456789012345"
+    m0 = r"|     ____    |"
+    m1 = r"|    /    \   |"
+    return m0 + "\n" + m1
+    
+def mouth_vampire():
+    x  = r"123456789012345"
+    m0 = r"|   _______   |"
+    m1 = r"|   \/   \/   |"
+    return m0 + "\n" + m1
+
+def chin_generic():
+    x = r"123456789012345"
+    c0= r"|             |"
+    c1= r"\_____________/"
+    return c0 + "\n" + c1
+
+def chin_double():
+    x = r"123456789012345"
+    c0= r"|             |"
+    c1= r"\_____/\______/"
+    return c0 + "\n" + c1
+
+def chin_gote():
+    x = r"123456789012345"
+    c0= r"\_____________/"
+    c1= r"      \  /     "
+    c2= r"       \/      "
+    return c0 + "\n" + c1 "\n" + c2
+
+def chin_square():
+    x = r"123456789012345"
+    c0= r"|             |"
+    c1= r"|_____________|"
+    c2= r"|||||||||||||||"
+    return c0 + "\n" + c1 "\n" + c2
+    
+def nose_nostrils():
+    x  = r"123456789012345"
+    n0 = r"     /.\/.\    "
+    return n0
+
+def nose_pointy():
+    x  = r"123456789012345"
+    n0 = r"      /__      "
+    return n0
+
+def nose_homersimpson():
+    x  = r"123456789012345"
+    n0 = r"|     ___     |"
+    n1 = r"|    |___     |"
+    return n0 + "\n" n1
+    
+def nose_generic():
+    x  = r"123456789012345"
+    n0 = r"|     |_|     |"
+    return n0 
+    
+def totempole():
+    print hair_margesimpson()
+    print eyes_generic()
+    print nose_homersimpson()
+    print mouth_smile()
+    print sides()
+    print chin_generic()
+    
+hairlist = [hair_bartsimpson(),hair_margesimpson(),hair_homersimpson(),hair_reversefauxhawk()]
+eyeslist = [eyes_generic(),eyes_goofy(),eyes_cyclops(),eyes_cute()]
+mouthlist = [mouth_unimpressed(),mouth_smile(),mouth_sad(),mouth_vampire()]
+chinlist = [chin_generic(),chin_double(),chin_gote(),chin_square()]
+noselist = [nose_generic(),nose_nostrils(),nose_homersimpson(),nose_pointy()]
+
+def randompole():
+    for i in range(0,2)
+        print random.choice(hairlist)()
+        print sides()
+        print random.choice(eyeslist)()
+        print random.choice(mouthlist)()
+        print random.choice(chinlist)()
+        print random.choice(noselist)()

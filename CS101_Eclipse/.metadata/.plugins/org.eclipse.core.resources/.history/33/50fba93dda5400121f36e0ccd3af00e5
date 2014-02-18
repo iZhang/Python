@@ -1,0 +1,19 @@
+'''
+Created on Jan 2, 2013
+
+@author: Jimmy
+'''
+def CountryMedalDictionary(results):
+    Dictionary = {}
+    for country in results:
+        if country == results.split()[0]:
+            Dictionary[country] = Dictionary.get(country,[1,0,0])
+        if country == 
+
+
+
+
+
+
+def generate(results): 
+    

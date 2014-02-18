@@ -1,0 +1,26 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\Lab4 Monte Carlo\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+DiceRolling|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Lab4 Monte Carlo\src\DiceRolling.py
+HeadsTails|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Lab4 Monte Carlo\src\HeadsTails.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=DiceRolling
+2=HeadsTails
+-- END DICTIONARY
+-- START TREE 1
+8
+_di|1|_DIESIDES!11@
+dic|1|dice!10@
+gen|1|generate_rolls!10@
+get|3|get_bar!10@get_tosses2!18@get_tosses!18@
+mai|1|main!10@
+pri|1|print_stats!10@
+sim|1|simulate!18@
+sta|1|stats!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

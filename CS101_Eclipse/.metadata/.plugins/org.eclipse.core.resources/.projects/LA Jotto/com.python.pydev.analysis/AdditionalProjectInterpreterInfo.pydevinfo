@@ -1,0 +1,40 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\LA Jotto\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+jotto_gui|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\LA Jotto\src\jotto_gui.py
+jotto_commandline|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\LA Jotto\src\jotto_commandline.py
+jotto_model|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\LA Jotto\src\jotto_model.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=jotto_gui
+3=jotto_commandline
+1=jotto_model
+-- END DICTIONARY
+-- START TREE 1
+20
+_co|1|_compGuess!11@
+_gu|1|_guessCount!11@
+_po|1|_possiblewords!11@
+_wo|1|_wordlist!11@
+but|1|buttonList!19@
+com|1|commonCount!10@
+cur|1|currentIndex!19@
+dis|2|disable!18@displayGuess!18@
+ent|1|entryList!19@
+get|1|get_guess!10@
+gue|1|guess_count!10@
+loa|1|load_words!10@
+mak|2|makeMenus!18@makeBox!18@
+new|1|newGame!18@
+pro|2|process_common_last!10@processCount!18@
+roo|1|root!19@
+run|2|run_game!18@run_game!26@
+sho|2|show_nowords!18@showVictory!18@
+spi|1|spinList!19@
+sta|1|start_game!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

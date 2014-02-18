@@ -1,0 +1,22 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\lab5 Poker Odds\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+Cardtester|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\lab5 Poker Odds\src\Cardtester.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=Cardtester
+-- END DICTIONARY
+-- START TREE 1
+6
+dea|1|deal_demo!10@
+get|4|get_hand!10@get_deck!10@get_rank_counts!10@get_suit_counts!10@
+is_|5|is_two_pair!10@is_pair!10@is_flush!10@is_fullhouse!10@is_threekind!10@
+pri|1|print_hand!10@
+sim|1|simulate!10@
+toc|1|toCardString!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

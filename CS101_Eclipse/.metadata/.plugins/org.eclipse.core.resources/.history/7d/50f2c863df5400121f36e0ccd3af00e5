@@ -1,0 +1,26 @@
+'''
+Created on Jan 2, 2013
+
+@author: Jimmy
+'''
+import operator
+
+def CountryMedalDictionary(results):
+    Dictionary = {}
+    for triplet in results:
+        for country in triplet.split():
+            if country == triplet.split()[0]:
+                Dictionary[country] = Dictionary.get(country,[0,0,0])(0)+1
+            elif triplet == triplet.split()[1]:
+                Dictionary[country] = Dictionary.get(country,[0,0,0])(1)+1
+            elif triplet == triplet.split()[2]:
+                Dictionary[country] = Dictionary.get(country,[0,0,0])(2)+1
+
+def generate(results): 
+    Alphabetically = sorted(CountryMedalDictionary(results).items(),key=operator.itemgetter(0))
+    Bronze = sorted(Alphabetically,key=lambda(k,v):operator.itemgetter(2)(v))
+    Silver = sorted(Bronze,key=lambda(k,v):operator.itemgetter(1)(v))
+    return sorted(Silver,key=lambda(k,v):operator.itemgetter(0)(v))
+        
+    
+    

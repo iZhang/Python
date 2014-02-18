@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+/Users/Ian/Desktop/CS101_Eclipse/.metadata/.plugins/org.eclipse.jdt.core
+908279392.index
+1092882166.index
+3626852172.index
+2823269315.index
+2938793946.index
+3745553237.index

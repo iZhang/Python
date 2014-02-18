@@ -1,0 +1,20 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\LA Recommender\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+Recommender|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\LA Recommender\Recommender.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=Recommender
+-- END DICTIONARY
+-- START TREE 1
+4
+ave|1|average!10@
+get|2|get_book_data!10@get_movie_data!10@
+rec|1|recommended!10@
+sim|1|similarities!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

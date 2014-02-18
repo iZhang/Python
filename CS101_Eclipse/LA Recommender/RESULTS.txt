@@ -1,0 +1,63 @@
+How I determined my functions work correctly:
+
+get_book_data(books,ratings):
+
+This function works correctly because my bookList is a set of 55 unique books.
+We can verify that there are 55 unique books in books.txt by counting the lines.
+In addition, my dictionary contains 86 items. While there are 174 lines in bookratings.txt,
+and thus we would assume there should be 87 items, Don Wang occurs twice,
+and quickly verifying the value for a random key proves this function works correctly.
+
+get_movie_data(ratings):
+
+Verifying this one was a little trickier. However, because I create moviesList from a set that
+loops through all lines in movieratings.txt, I can ensure that all elements in there are unique.
+And because python's built in sort function will sort this list alphabetically,
+I have an alphabetical moviesList containing 150 movies.
+
+The first entry in movieratings.txt shows that student1000 rates Thor a 1. I verified that
+moviesList and dictionary are correct using the following two lines of test code:
+
+#   print moviesList.index("Thor") = 135
+#   print dictionary.get("student1000")[moviesList.index("Thor")] = 1 
+
+average(items,ratings):
+
+I verified this method by generating my own items and ratings. Notice that the more highly rated item comes first:
+
+#   print average(["item1","item2"],{"user1":[-1,6],"user2":[4,104]})
+#   output = [('item2', 55.0), ('item1', 1.5)]
+
+This would work for both books and movies because the two methods above return variables in the same format.
+
+similarities(name, ratings):
+
+I verified this method by generating my own ratings. This also works for books and movies. Notice that the most similar tuple comes first:
+
+#   print similarities("Jimmy",{"Jimmy":[1,2,3,4], "Timmy":[0,0,0,0],"Dimmy":[-1,-2,-3,-4]})
+#   output = [('Jimmy', 30), ('Timmy', 0), ('Dimmy', -30)]
+
+Note that as defined in the instructions, this function does not always return the most similar user first:
+See: https://piazza.com/class#spring2013/101l/206
+#   print similarities("Jimmy",{"Jimmy":[2,2,0,3], "Timmy":[2,3,0,4]})
+#   output = [('Timmy', 22), ('Jimmy', 17)]
+Timmy is more similar to Jimmy than Jimmy is to himself. 
+I have implemented this method according to instructions.
+
+recommended(items, ratings, similarities, n):
+
+Having proved that all of the above methods work, I ran the following test code:
+
+#   print len(similarUsers) = 3, so three of the most similar users are taken from similarities
+
+#   print recommended(["item1","item2","item3","item4"],{"Jimmy":[1,2,3,4], "Timmy":[0,0,0,0],"Dimmy":[-1,-2,-3,-4]},similarities("Jimmy",{"Jimmy":[1,2,3,4], "Timmy":[0,0,0,0],"Dimmy":[-1,-2,-3,-4]}),2)
+#   output = [('item4', 120), ('item3', 90), ('item2', 60), ('item1', 30)]
+This makes sense because I omitted Dimmy. Thus since all of Timmy's ratings are 0, the best recommended for Jimmy are just the ones he rates most highly.
+Notice that the most recommended items come first. We can also verify that the score is correct. Jimmy's similarity to himself in this case is 1*1 + 2*2 + 3*3 + 4*4 = 30
+Since our ratings from highest to lowest are 4,3,2,1, this produces 120, 90, 60, and 30 as expected.
+
+BONUS: to make my recommended method meet the bonus requirements, I added another for loop:
+#   if ratings.get(similarities[0][0])[i] == 0:
+Assuming the first item in similarities was the current user, since he is most similar with himself,
+then only if his own rating of the movie was 0 would I add that movie into the recommended dictionary items.
+My output for the most recent function is now #  [] because Jimmy has rated all the items 1-4 and so they are not included anymore.

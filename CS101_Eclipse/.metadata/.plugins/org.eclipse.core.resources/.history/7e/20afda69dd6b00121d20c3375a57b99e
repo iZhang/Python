@@ -1,0 +1,34 @@
+'''
+Created on Dec 26, 2012
+
+@author: Jimmy
+'''
+
+def isvowel(ch):
+    return "aeiou".count(ch) > 0
+
+def allvowel(word):
+    s = 0
+    for ch in word:
+        if isvowel(ch):
+            s +=1
+    return s == len(word)
+
+def transform(word):
+    if allvowel(word):
+        return word
+    ret = ""
+    if not isvowel(word[0]):
+        ret = word[0]
+    for i in range(1,len(word)):
+        if not isvowel(word[i]) and isvowel(word[i-1]):
+            ret += word[i]
+    return ret 
+
+def getMessage(original):
+    ret = ""
+    for word in original.split():
+        ret +=" " + transform(word)
+    return ret.strip()
+
+        

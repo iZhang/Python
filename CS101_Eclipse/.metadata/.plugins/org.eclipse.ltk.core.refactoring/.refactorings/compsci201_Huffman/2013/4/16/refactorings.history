@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;compsci201_Huffman/Huffman Analysis.pdf&apos; to &apos;Analysis.pdf&apos;" description="Rename resource &apos;Huffman Analysis.pdf&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Huffman Analysis.pdf" name="Analysis.pdf" stamp="1366172068480" updateReferences="true"/>
+</session>

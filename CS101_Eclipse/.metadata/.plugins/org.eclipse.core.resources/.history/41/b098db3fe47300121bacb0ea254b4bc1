@@ -1,0 +1,38 @@
+import java.util.*;
+import java.util.Arrays;
+
+public class FriendScore {
+	public int highestScore(String[] friends) {
+				int count = 0;
+				int count2 = 0;
+		ArrayList<Integer> twofriends = new ArrayList<Integer>();
+				for(String person:friends){
+					
+					
+					//counts number of friends a guy has
+					for(int i=0;i<person.length();i++){
+						if(person.charAt(i)=='Y'){
+							count ++;
+							
+							
+							//counts total number of friends of friends that that guy has but doesn't count it if they are direct friends
+							for(int j=0;j<friends[i].length();j++){
+								if(friends[i].charAt(j)!='Y'){
+									count2 ++;
+								}
+							}
+							
+							count2 -= 1;
+							
+							
+							
+						}
+					}
+							count += count2;
+							twofriends.add(count);
+							count = 0;
+							count2 = 0;
+				}
+				return Collections.max(twofriends);
+	}
+}

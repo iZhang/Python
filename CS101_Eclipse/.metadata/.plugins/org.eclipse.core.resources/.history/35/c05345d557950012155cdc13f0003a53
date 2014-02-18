@@ -1,0 +1,35 @@
+'''
+Created on Jan 2, 2013
+
+@author: Jimmy
+'''
+import operator
+
+def CountryMedalDictionary(results):
+    d = {}
+    for triplet in results:
+        for i in range(0,3):
+            country = triplet.split()[i]
+            if country not in d:
+                d[country] = [0,0,0]
+            d[country][i] +=1
+    return d
+
+def generate(results): 
+    Alphabetically = sorted(CountryMedalDictionary(results).items(),key=operator.itemgetter(0))
+    Bronze = sorted(Alphabetically,key=lambda(k,v):operator.itemgetter(2)(v),reverse=True)
+    Silver = sorted(Bronze,key=lambda(k,v):operator.itemgetter(1)(v),reverse=True)
+    Gold = sorted(Silver,key=lambda(k,v):operator.itemgetter(0)(v),reverse=True)
+    
+    '''
+    returns a list of tuples such as: [('USA', [1, 0, 0]), ('AUT', [0, 1, 0]), ('ROM', [0, 0, 1])]
+    next step turns the list of tuples into a list of strings
+    '''
+    Final = []
+    for tup in Gold:
+        country = tup[0]
+        medals = str(tup[1][0])+' '+str(tup[1][1])+' '+str(tup[1][2])
+        Final.append(country +" "+ medals)
+    return Final  
+
+

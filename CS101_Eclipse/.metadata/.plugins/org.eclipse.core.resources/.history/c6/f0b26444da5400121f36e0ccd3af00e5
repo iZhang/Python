@@ -1,0 +1,23 @@
+'''
+Created on Jan 2, 2013
+
+@author: Jimmy
+'''
+import operator
+
+def CountryMedalDictionary(results):
+    Dictionary = {}
+    for country in results:
+        if country == results.split()[0]:
+            Dictionary[country] = Dictionary.get(country,[0,0,0])(0)+1
+        elif country == results.split()[1]:
+            Dictionary[country] = Dictionary.get(country,[0,0,0])(1)+1
+        elif country = results.split()[2]:
+            Dictionary[country] = Dictionary.get(country,[0,0,0])(2)+1
+
+def generate(results): 
+    Alphabetically = sorted(CountryMedalDictionary(results).items(),key=operator.itemgetter(0))
+    return sorted(Alphabetically,key=operator.itemgetter(1))
+        
+    
+    

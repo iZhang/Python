@@ -1,0 +1,26 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\LA Clever Hangman\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+Tools|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\LA Clever Hangman\Tools.py
+CleverHangman|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\LA Clever Hangman\CleverHangman.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=Tools
+1=CleverHangman
+-- END DICTIONARY
+-- START TREE 1
+8
+_de|2|_DEBUGisON!11@_DEBUGisON!19@
+cha|1|change_knowledge!10@
+dis|1|display!10@
+get|1|get_words!18@
+lis|1|list_TOOfew!18@
+loa|1|load_lines!18@
+pla|1|play_game!10@
+sta|1|startUp!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

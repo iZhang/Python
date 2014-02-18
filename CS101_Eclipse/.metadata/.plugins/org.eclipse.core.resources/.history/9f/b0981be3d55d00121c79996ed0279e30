@@ -1,0 +1,12 @@
+ public class CountAppearances {
+     public int numberTimesAppear(int number, int digit) {
+            String strnum = number + "";
+            int appearances = 0;
+            for(int i = 0;i<strnum.length();i++){
+            	if(strnum.charAt(i)==digit){
+            		appearances += 1;
+            	}
+            }
+            return appearances;
+     }
+}

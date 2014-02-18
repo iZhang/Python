@@ -1,0 +1,12 @@
+
+public class DNAcgcount{
+    public double ratio(String dna){
+    	double cgcount = 0;
+        for(int i = 0; i<dna.length(); i++){
+        	if(dna.charAt(i)=='c' | dna.charAt(i)=='g'){
+        		cgcount ++;
+        	}
+        }
+    return dna.length()/cgcount;
+    }
+}

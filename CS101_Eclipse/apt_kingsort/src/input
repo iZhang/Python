@@ -1,0 +1,82 @@
+["Louis IX", "Louis VIII"]
+["Louis VIII", "Louis IX"] ["Louis VIII", "Louis IX"] 
+
+["Louis IX", "Philippe II"]
+["Louis IX", "Philippe II"] ["Louis IX", "Philippe II"] 
+
+["Richard III", "Richard I", "Richard II"]
+["Richard I", "Richard II", "Richard III"] ["Richard I", "Richard II", "Richard III"]  
+
+
+["John X", "John I", "John L", "John V"]
+["John I", "John V", "John X", "John L"] ["John I", "John V", "John X", "John L"]  
+
+
+["Philippe VI", "Jean II", "Charles V", "Charles VI", "Charles VII", "Louis XI"]
+["Charles V", "Charles VI", "Charles VII", "Jean II", "Louis XI", "Philippe VI"] 
+["Charles V", "Charles VI", "Charles VII", "Jean II", "Louis XI", "Philippe VI"]  
+
+
+["Philippe II", "Philip II"]
+["Philip II", "Philippe II"] ["Philip II", "Philippe II"]  
+
+
+["Louis VI", "Louis L", "Louis XIII", "Louis XXXIV", "Louis IV",
+"Louis XXI", "Louis XXII", "Louis XXXIX", "Louis XXIV", "Louis XXXVIII",
+"Louis X", "Louis XLIII", "Louis XLIX", "Louis XX", "Louis XXVIII",
+"Louis VIII", "Louis III", "Louis IX", "Louis XIX", "Louis XLV", "Louis
+XXV", "Louis XXXVI", "Louis XV", "Louis XXVII", "Louis XXIX", "Louis I",
+"Louis II", "Louis XI", "Louis XXVI", "Louis XLVIII", "Louis XXIII",
+"Louis XXXV", "Louis XXXVII", "Louis XXXII", "Louis XVIII", "Louis
+XLVII", "Louis XXXIII", "Louis XLIV", "Louis VII", "Louis XIV", "Louis
+XVI", "Louis XXXI", "Louis XXX", "Louis XII", "Louis XLVI", "Louis
+XVII", "Louis XL", "Louis XLI", "Louis V", "Louis XLII"]
+["Louis I", "Louis II", "Louis III", "Louis IV", "Louis V", "Louis VI", "Louis VII", "Louis VIII", "Louis IX", "Louis X", "Louis XI", "Louis XII", "Louis XIII", "Louis XIV", "Louis XV", "Louis XVI", "Louis XVII", "Louis XVIII", "Louis XIX", "Louis XX", "Louis XXI", "Louis XXII", "Louis XXIII", "Louis XXIV", "Louis XXV", "Louis XXVI", "Louis XXVII", "Louis XXVIII", "Louis XXIX", "Louis XXX", "Louis XXXI", "Louis XXXII", "Louis XXXIII", "Louis XXXIV", "Louis XXXV", "Louis XXXVI", "Louis XXXVII", "Louis XXXVIII", "Louis XXXIX", "Louis XL", "Louis XLI", "Louis XLII", "Louis XLIII", "Louis XLIV", "Louis XLV", "Louis XLVI", "Louis XLVII", "Louis XLVIII", "Louis XLIX", "Louis L"] ["Louis I", "Louis II", "Louis III", "Louis IV", "Louis V", "Louis VI", "Louis VII", "Louis VIII", "Louis IX", "Louis X", "Louis XI", "Louis XII", "Louis XIII", "Louis XIV", "Louis XV", "Louis XVI", "Louis XVII", "Louis XVIII", "Louis XIX", "Louis XX", "Louis XXI", "Louis XXII", "Louis XXIII", "Louis XXIV", "Louis XXV", "Louis XXVI", "Louis XXVII", "Louis XXVIII", "Louis XXIX", "Louis XXX", "Louis XXXI", "Louis XXXII", "Louis XXXIII", "Louis XXXIV", "Louis XXXV", "Louis XXXVI", "Louis XXXVII", "Louis XXXVIII", "Louis XXXIX", "Louis XL", "Louis XLI", "Louis XLII", "Louis XLIII", "Louis XLIV", "Louis XLV", "Louis XLVI", "Louis XLVII", "Louis XLVIII", "Louis XLIX", "Louis L"]  
+
+
+["Henry XXXVII", "Henry VII", "Henry X", "Henry XXVI", "Henry
+IV", "Henry VIII", "Henry XXXIII", "Henry IX", "Henry XLVIII", "Henry
+XLII", "Henry XLI", "Henry XLIII", "Henry XXXV", "Henry XIV", "Henry
+XLIV", "Henry XXV", "Henry XXIV", "Henry III", "Henry XXI", "Henry XX",
+"Henry XXVII", "Henry XXXVIII", "Henry XXX", "Henry XXXIX", "Henry
+XXIII", "Henry L", "Henry XXII", "Henry I", "Henry II", "Henry XIX",
+"Henry XXVIII", "Henry XXIX", "Henry XLVI", "Henry V", "Henry XXXIV",
+"Henry XLIX", "Henry XII", "Henry XL", "Henry XVII", "Henry XV", "Henry
+XI", "Henry VI", "Henry XXXI", "Henry XVI", "Henry XXXVI", "Henry
+XXXII", "Henry XIII", "Henry XLVII", "Henry XLV", "Henry XVIII"]
+["Henry I", "Henry II", "Henry III", "Henry IV", "Henry V", "Henry VI", "Henry VII", "Henry VIII", "Henry IX", "Henry X", "Henry XI", "Henry XII", "Henry XIII", "Henry XIV", "Henry XV", "Henry XVI", "Henry XVII", "Henry XVIII", "Henry XIX", "Henry XX", "Henry XXI", "Henry XXII", "Henry XXIII", "Henry XXIV", "Henry XXV", "Henry XXVI", "Henry XXVII", "Henry XXVIII", "Henry XXIX", "Henry XXX", "Henry XXXI", "Henry XXXII", "Henry XXXIII", "Henry XXXIV", "Henry XXXV", "Henry XXXVI", "Henry XXXVII", "Henry XXXVIII", "Henry XXXIX", "Henry XL", "Henry XLI", "Henry XLII", "Henry XLIII", "Henry XLIV", "Henry XLV", "Henry XLVI", "Henry XLVII", "Henry XLVIII", "Henry XLIX", "Henry L"] ["Henry I", "Henry II", "Henry III", "Henry IV", "Henry V", "Henry VI", "Henry VII", "Henry VIII", "Henry IX", "Henry X", "Henry XI", "Henry XII", "Henry XIII", "Henry XIV", "Henry XV", "Henry XVI", "Henry XVII", "Henry XVIII", "Henry XIX", "Henry XX", "Henry XXI", "Henry XXII", "Henry XXIII", "Henry XXIV", "Henry XXV", "Henry XXVI", "Henry XXVII", "Henry XXVIII", "Henry XXIX", "Henry XXX", "Henry XXXI", "Henry XXXII", "Henry XXXIII", "Henry XXXIV", "Henry XXXV", "Henry XXXVI", "Henry XXXVII", "Henry XXXVIII", "Henry XXXIX", "Henry XL", "Henry XLI", "Henry XLII", "Henry XLIII", "Henry XLIV", "Henry XLV", "Henry XLVI", "Henry XLVII", "Henry XLVIII", "Henry XLIX", "Henry L"]  
+
+
+["Kubus XXVII", "Julka XXXIII", "Michail XVI", "Paul XLVII",
+"Mimino XL", "Luka XLVIII", "Mary XVII", "Luka VII", "Anne XXXVIII",
+"Maru XXIV", "Carlos XLVII", "James VII", "Henri XXXVI", "Paul XI",
+"Usamec XLI", "Genadij VI", "Julka XII", "Francois XXXIV", "Tomek XXX",
+"Rasto XL", "Anne XLV", "Louis XXIX", "Henri XXIV", "Philippe III",
+"Carlos XIV", "Tomek IV", "Luka XLIV", "Henri XLIV", "Henri XXII", "Mary
+XXVI", "Julka XXXI", "Julka XXI", "Paul XXXVIII", "Neal XLI", "Monika
+XXXVIII", "Lukas XXIV", "Philippe XVI", "Kubus XXXVI", "Rasto XX", "Luka
+XV", "Stephen XXXI", "Anne IX", "Marek XI", "Michail XLVI", "Paul
+XXXVI", "Richard X", "Julka XXVII", "Francois XLIII"]
+["Anne IX", "Anne XXXVIII", "Anne XLV", "Carlos XIV", "Carlos XLVII", "Francois XXXIV", "Francois XLIII", "Genadij VI", "Henri XXII", "Henri XXIV", "Henri XXXVI", "Henri XLIV", "James VII", "Julka XII", "Julka XXI", "Julka XXVII", "Julka XXXI", "Julka XXXIII", "Kubus XXVII", "Kubus XXXVI", "Louis XXIX", "Luka VII", "Luka XV", "Luka XLIV", "Luka XLVIII", "Lukas XXIV", "Marek XI", "Maru XXIV", "Mary XVII", "Mary XXVI", "Michail XVI", "Michail XLVI", "Mimino XL", "Monika XXXVIII", "Neal XLI", "Paul XI", "Paul XXXVI", "Paul XXXVIII", "Paul XLVII", "Philippe III", "Philippe XVI", "Rasto XX", "Rasto XL", "Richard X", "Stephen XXXI", "Tomek IV", "Tomek XXX", "Usamec XLI"] ["Anne IX", "Anne XXXVIII", "Anne XLV", "Carlos XIV", "Carlos XLVII", "Francois XXXIV", "Francois XLIII", "Genadij VI", "Henri XXII", "Henri XXIV", "Henri XXXVI", "Henri XLIV", "James VII", "Julka XII", "Julka XXI", "Julka XXVII", "Julka XXXI", "Julka XXXIII", "Kubus XXVII", "Kubus XXXVI", "Louis XXIX", "Luka VII", "Luka XV", "Luka XLIV", "Luka XLVIII", "Lukas XXIV", "Marek XI", "Maru XXIV", "Mary XVII", "Mary XXVI", "Michail XVI", "Michail XLVI", "Mimino XL", "Monika XXXVIII", "Neal XLI", "Paul XI", "Paul XXXVI", "Paul XXXVIII", "Paul XLVII", "Philippe III", "Philippe XVI", "Rasto XX", "Rasto XL", "Richard X", "Stephen XXXI", "Tomek IV", "Tomek XXX", "Usamec XLI"]  
+
+
+["Robert X", "Ilya VIII", "Zemco XXVII", "Mary XV", "Usamec
+XLII", "Robert VIII", "Janq XXV", "Usamec XLIX", "Zemco X", "Anne XIV",
+"Mary II", "Usamec VII", "Ilya XXV", "Robert XLIII", "Philip VI", "Mary
+VI", "Usamec XXXIV", "Robert XV", "Mary X", "Robert XXVIII", "Philip
+XXXV", "Anne XLIX", "Ilya XXVI", "Usamec IV", "Robert III", "Philip
+III", "Anne XXXIII", "Janq XXVIII", "Ilya XI", "Zemco III", "Zemco
+XXXI", "Usamec XXIII", "Ilya XLVIII", "Janq XLIII", "Janq XVI", "Philip
+XX", "Usamec XL", "Janq XI", "Philip XIX", "Robert XXXII", "Mary XXIII",
+"Mary XXIV", "Mary IX", "Ilya XXVIII", "Robert XXXI", "Robert XVII",
+"Robert XXXIII", "Ilya X", "Philip XV", "Ilya XXX"]
+["Anne XIV", "Anne XXXIII", "Anne XLIX", "Ilya VIII", "Ilya X", "Ilya XI", "Ilya XXV", "Ilya XXVI", "Ilya XXVIII", "Ilya XXX", "Ilya XLVIII", "Janq XI", "Janq XVI", "Janq XXV", "Janq XXVIII", "Janq XLIII", "Mary II", "Mary VI", "Mary IX", "Mary X", "Mary XV", "Mary XXIII", "Mary XXIV", "Philip III", "Philip VI", "Philip XV", "Philip XIX", "Philip XX", "Philip XXXV", "Robert III", "Robert VIII", "Robert X", "Robert XV", "Robert XVII", "Robert XXVIII", "Robert XXXI", "Robert XXXII", "Robert XXXIII", "Robert XLIII", "Usamec IV", "Usamec VII", "Usamec XXIII", "Usamec XXXIV", "Usamec XL", "Usamec XLII", "Usamec XLIX", "Zemco III", "Zemco X", "Zemco XXVII", "Zemco XXXI"] ["Anne XIV", "Anne XXXIII", "Anne XLIX", "Ilya VIII", "Ilya X", "Ilya XI", "Ilya XXV", "Ilya XXVI", "Ilya XXVIII", "Ilya XXX", "Ilya XLVIII", "Janq XI", "Janq XVI", "Janq XXV", "Janq XXVIII", "Janq XLIII", "Mary II", "Mary VI", "Mary IX", "Mary X", "Mary XV", "Mary XXIII", "Mary XXIV", "Philip III", "Philip VI", "Philip XV", "Philip XIX", "Philip XX", "Philip XXXV", "Robert III", "Robert VIII", "Robert X", "Robert XV", "Robert XVII", "Robert XXVIII", "Robert XXXI", "Robert XXXII", "Robert XXXIII", "Robert XLIII", "Usamec IV", "Usamec VII", "Usamec XXIII", "Usamec XXXIV", "Usamec XL", "Usamec XLII", "Usamec XLIX", "Zemco III", "Zemco X", "Zemco XXVII", "Zemco XXXI"]  
+
+
+["Louis XLVII", "Louis XLV"]
+["Louis XLV", "Louis XLVII"] ["Louis XLV", "Louis XLVII"] 
+
+
+
+["A XL", "A X", "B X", "B XL", "A XI", "B XI"]
+["A X", "A XI", "A XL", "B X", "B XI", "B XL"] ["A X", "A XI", "A XL", "B X", "B XI", "B XL"]  

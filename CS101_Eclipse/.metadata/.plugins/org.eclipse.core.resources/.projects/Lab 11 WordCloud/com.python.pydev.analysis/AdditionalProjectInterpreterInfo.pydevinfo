@@ -1,0 +1,24 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\Lab 11 WordCloud\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+HTMLWriter|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Lab 11 WordCloud\src\HTMLWriter.py
+WordCloud|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Lab 11 WordCloud\src\WordCloud.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=HTMLWriter
+1=WordCloud
+-- END DICTIONARY
+-- START TREE 1
+6
+cle|1|clean_up_size!10@
+fin|1|finish!18@
+get|1|get_popular_words!10@
+mak|1|make_word_cloud!10@
+sta|1|start!18@
+wri|1|write_sized_word!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

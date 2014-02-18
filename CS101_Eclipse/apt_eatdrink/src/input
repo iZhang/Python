@@ -1,0 +1,36 @@
+["owen 2:00", "jeff 1:29", "owen 1:00", "jeff 1:30", "robert 0:21"]
+["jeff", "owen", "robert"]
+["jeff", "owen", "robert"] 
+["tyson 0:11", "usain 0:12", "carl 0:30", "carl 0:20", "usain 0:40", "carl 1:00"]
+["carl", "usain", "tyson"]
+["carl", "usain", "tyson"]
+["tyson 0:11", "usain 0:12", "carl 0:30", "carl 0:20", "usain 0:40", "carl 1:00" "usain 0:57"]
+["usain", "carl", "tyson"]
+["usain", "carl", "tyson"]
+["kate 4:16", "kate 4:17"] ["kate"] ["kate"]
+["a 0:1", "a 0:1", "a 0:1", "a 0:1", "a 0:1", "a 0:1", 
+ "b 0:1", "b 0:1", "b 0:1", "b 0:1", "b 0:1", "b 0:1", "b 0:1",
+ "c 0:1", "c 0:1", "c 0:1", "c 0:1", "c 0:1", "c 0:1", "c 0:1", "c 0:1",
+ "d 0:1", "d 0:1", "d 0:1", "d 0:1", "d 0:1", "d 0:1", "d 0:1", "d 0:1", "d 0:1",
+ "e 0:1", "e 0:1", "e 0:1", "e 0:1", "e 0:1", "e 0:2", 
+ "f 0:1", "f 0:1", "f 0:1", "f 0:1", "f 0:1", "f 0:1", "f 0:2",
+ "g 0:1", "g 0:1", "g 0:1", "g 0:1", "g 0:1", "g 0:1", "g 0:1", "g 0:2",
+ "h 0:1", "h 0:1", "h 0:1", "h 0:1", "h 0:1", "h 0:1", "h 0:1", "h 0:1", "h 0:2"]
+[d,h,c,g,b,f,a,e]
+[d,h,c,g,b,f,a,e]
+["susan 1:23", "susan 1:23", "susan 1:23",
+ "carla 1:23", "carla 1:23", "carla 1:24",
+ "simone 4:22", "simone 4:22",
+ "mimi 4:21", "mimi 4:24",
+ "nancy 42:42"]
+["susan", "carla", "simone", "mimi", "nancy"]
+["susan", "carla", "simone", "mimi", "nancy"]
+["david 1:22",
+ "ernest 1:21",
+ "garth 1:20",
+ "alice 1:19",
+ "bobo 1:18"]
+[bobo, alice, garth, ernest, david]
+[bobo, alice, garth, ernest, david]
+
+

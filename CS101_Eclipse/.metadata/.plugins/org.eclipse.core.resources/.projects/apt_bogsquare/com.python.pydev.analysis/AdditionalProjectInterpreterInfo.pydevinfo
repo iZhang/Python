@@ -1,0 +1,79 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\apt_bogsquare\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+ETester|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Compsci 6\apt_bogsquare\src\ETester.py
+Bogsquare|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Compsci 6\apt_bogsquare\src\Bogsquare.py
+Parse|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Compsci 6\apt_bogsquare\src\Parse.py
+PasswordCharacter|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Compsci 6\apt_bogsquare\src\PasswordCharacter.py
+StoppableThread|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Compsci 6\apt_bogsquare\src\StoppableThread.py
+-- END DISKCACHE
+-- START DICTIONARY
+18
+11=Parse.matchString
+15=StoppableThread._get_my_tid
+8=Parse.matchStringList
+12=Parse.matchLong
+18=Tester.__init__
+17=Parse.next
+16=Tester.work
+9=Parse.matchDoubleList
+14=Parse.matchDouble
+2=StoppableThread
+10=Parse.matchIntList
+1=ETester
+3=Bogsquare
+4=Parse
+13=Parse.matchInt
+5=PasswordCharacter
+6=Tester
+7=Parse.__init__
+-- END DICTIONARY
+-- START TREE 1
+12
+_al|1|_ALLPASS!11@
+_as|1|_async_raise!18@
+_ru|1|_RUNSECS!11@
+_td|3|_TDEND!11@_TDPASS!11@_TDFAIL!11@
+_tr|1|_TRSTART!11@
+cel|1|celcius!27@
+mai|1|main!10@
+par|1|Parse!33@
+pas|1|passWord_OK!42@
+res|1|result!27@
+sto|1|StoppableThread!17@
+tes|1|Tester!9@
+-- END TREE
+-- START TREE 2
+30
+__i|2|__init__!4&34@__init__!6&10@
+_ge|1|_get_my_tid!2&18@
+_ok|8|_ok!7&35@_ok!8&35@_ok!9&35@_ok!10&35@_ok!11&35@_ok!12&35@_ok!13&35@_ok!14&35@
+_th|1|_thread_id!15&19@
+don|1|done!16&11@
+dop|1|doprint!6&10@
+dou|1|double!4&34@
+eob|1|eobj!16&11@
+fil|1|file!7&35@
+get|4|getDouble!4&34@getInt!4&34@getString!4&34@getLong!4&34@
+int|1|int!4&34@
+isc|1|isComma!4&34@
+ise|1|isEnd!4&34@
+isl|1|isLeftBracket!4&34@
+isr|1|isRightBracket!4&34@
+lon|1|long!4&34@
+mat|7|matchString!4&34@matchInt!4&34@matchDouble!4&34@matchLong!4&34@matchStringList!4&34@matchDoubleList!4&34@matchIntList!4&34@
+nex|2|next!4&34@nextInt!4&34@
+num|1|num!17&35@
+ok|1|ok!4&34@
+par|3|parseVI!4&34@parseVS!4&34@parseVD!4&34@
+pri|3|printString!4&34@printList!4&34@printNum!4&34@
+rai|1|raise_exc!2&18@
+res|3|result!16&11@resultReturned!16&11@resultReturned!18&11@
+run|2|runtime!16&11@runtime!18&11@
+str|3|string!7&35@string!17&35@stringize!4&34@
+ter|1|terminate!2&18@
+tok|2|tokenizer!7&35@token!17&35@
+typ|1|typeOk!16&11@
+wor|1|work!6&10@
+-- END TREE

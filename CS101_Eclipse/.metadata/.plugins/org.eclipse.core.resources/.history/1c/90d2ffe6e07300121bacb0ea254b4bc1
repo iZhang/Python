@@ -1,0 +1,27 @@
+import java.util.*;
+import java.util.Arrays;
+
+public class FriendScore {
+	public int highestScore(String[] friends) {
+		int count = 0;
+		int count2 = 0;
+		ArrayList<Integer> twofriends = new ArrayList<Integer>();
+		for(String person:friends){
+			for(int i=0;i<person.length();i++){
+				if(person.charAt(i)=='Y'){
+					count ++;
+					for(int j=0;j<friends[i].length();j++){
+						if(friends[i].charAt(j)=='Y'){
+							count2 ++;
+						}
+						count += count2 -1;
+					}
+				}
+			}
+					twofriends.add(count);
+					count = 0;
+					count2 = 0;
+		}
+		return Collections.max(twofriends);
+	}
+}

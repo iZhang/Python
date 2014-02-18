@@ -1,0 +1,27 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\Lab 13 Image Processing\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+ProcessImage|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Lab 13 Image Processing\ProcessImage.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=ProcessImage
+-- END DICTIONARY
+-- START TREE 1
+11
+app|1|apply_filter!10@
+bri|1|brighten!10@
+dar|1|darken!10@
+den|1|denoise!10@
+gra|1|gray_scale!10@
+ide|1|identity!10@
+inv|1|invert!10@
+loa|1|load_and_go!10@
+ope|1|open_image!10@
+pos|1|posterize!10@
+sol|1|solarize!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

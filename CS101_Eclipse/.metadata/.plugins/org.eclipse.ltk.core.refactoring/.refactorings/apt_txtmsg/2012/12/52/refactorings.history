@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;apt_txtmsg/src/txtmsg.py&apos; to &apos;TxMsg.py&apos;" description="Rename resource &apos;txtmsg.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/txtmsg.py" name="TxMsg.py" stamp="1356512450584" updateReferences="true"/>
+</session>

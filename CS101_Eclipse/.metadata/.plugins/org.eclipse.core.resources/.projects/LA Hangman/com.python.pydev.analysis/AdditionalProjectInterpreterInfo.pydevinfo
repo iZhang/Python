@@ -1,0 +1,24 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\LA Hangman\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+Hangman|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\LA Hangman\src\Hangman.py
+Hangdemo|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\LA Hangman\src\Hangdemo.py
+GuessNumber|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\LA Hangman\src\GuessNumber.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=Hangdemo
+1=Hangman
+3=GuessNumber
+-- END DICTIONARY
+-- START TREE 1
+4
+get|5|getLetters!10@get_words!10@get_words!18@getGuesses!10@get_status!26@
+loa|2|load_lines!18@load_lines!10@
+pla|4|play_game_computerguess!26@playCategory!10@playGame!10@play_game_humanguess!26@
+use|1|user!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

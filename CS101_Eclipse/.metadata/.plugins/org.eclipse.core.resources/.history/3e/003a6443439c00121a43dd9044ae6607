@@ -1,0 +1,71 @@
+'''
+Created on Apr 3, 2013
+
+@author: Jimmy
+'''
+import operator
+
+def getSortedList(kings):
+    
+    numerals = {'IV':4,'IX':9,'XL':40,'XC':90,'CD':400,'CM':900}
+    numerals2 = {'I':1,'V':5,'X':10,'L':50,'C':100,'D':500, 'M':1000}
+    
+    dictionary = {}
+    
+    for king in kings:
+        
+        result = 0
+        
+        #number is the roman numeral part
+        
+        number = king.split()[1]
+        
+        #find IV or IX before we count I or V, otherwise IV would be counted as 6
+        
+        for key in numerals.keys():
+            if number.count(key) > 0:
+                result += numerals[key]
+                number.replace(key,'happy')
+        
+        print result
+        print number
+        
+        #now we count I and V and so on.
+        
+        for key in numerals2.keys():
+            if number.count(key) > 0:
+                result += numerals2[key]
+                number.replace(key,"")
+                
+        print result
+                
+        #assign each king to it's number
+        
+        dictionary[king] = dictionary.get(king,0) + result
+        
+        #sort king from smallest to greatest by number
+    
+#    dummy = []
+#    for key in dictionary.keys():
+#        dummy.append(key.split()[0])
+#        
+#    if len(set(dummy)) == 1:
+#        x = sorted(dictionary.items(),key=operator.itemgetter(0)) #nameSort
+#        y = sorted(x,key=operator.itemgetter(1)) #kingSort
+#        
+#    elif len(set(dummy)) > 1:
+#        x = sorted(dictionary.items(),key=operator.itemgetter(1)) #kingSort
+#        y = sorted(x,key=operator.itemgetter(0)) #nameSort
+    print dictionary.items()
+    x = sorted(dictionary.items(),key=operator.itemgetter(0)) #nameSort
+    print x
+    y = sorted(x,key=operator.itemgetter(1)) #kingSort
+    print y
+    
+    list = []
+    for thing in y:
+        list.append(thing[0])
+            
+    return list
+
+print getSortedList(['Anne XIV'])

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CS101 Lab 2/SimpleFaces.py&apos; to &apos;SimpleFace.py&apos;" description="Rename resource &apos;SimpleFaces.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="SimpleFaces.py" name="SimpleFace.py" stamp="1359053582079" updateReferences="true"/>
+</session>

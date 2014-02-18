@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;apt0/CodingZero&apos; to &apos;src&apos;" description="Rename resource &apos;CodingZero&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CodingZero" name="src" stamp="1358739080016" updateReferences="true"/>
+</session>

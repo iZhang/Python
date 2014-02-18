@@ -1,0 +1,23 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\CS101 Lab 2\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+SimpleFace|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\CS101 Lab 2\SimpleFace.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=SimpleFace
+-- END DICTIONARY
+-- START TREE 1
+7
+chi|1|chin!10@
+eye|3|eyes_right!10@eyes_left!10@eyes!10@
+hai|1|hair_fright!10@
+hea|1|head!10@
+mou|2|mouth_smile!10@mouth!10@
+nos|1|nose!10@
+sid|1|sides!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

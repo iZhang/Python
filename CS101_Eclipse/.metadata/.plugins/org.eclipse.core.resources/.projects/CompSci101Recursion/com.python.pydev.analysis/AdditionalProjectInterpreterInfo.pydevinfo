@@ -1,0 +1,33 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\CompSci101Recursion\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+QuickSort|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\CompSci101Recursion\QuickSort.py
+Blastoff|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\CompSci101Recursion\Blastoff.py
+Counting|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\CompSci101Recursion\Counting.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+1=QuickSort
+2=Blastoff
+3=Counting
+-- END DICTIONARY
+-- START TREE 1
+13
+a|1|a!11@
+b|1|b!11@
+c|1|c!11@
+cou|1|countdown!18@
+d|1|d!11@
+e|1|e!11@
+lou|1|loud!27@
+odd|1|odd!27@
+pic|1|pickPivot!10@
+qui|1|quickSort!10@
+rec|1|recurCount!26@
+sin|1|sing!27@
+zom|1|zombie!27@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

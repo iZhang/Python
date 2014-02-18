@@ -1,0 +1,22 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\Lab1 Up and Running\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+HighLo|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Lab1 Up and Running\src\HighLo.py
+AssortedCodeSnippets|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Lab1 Up and Running\src\AssortedCodeSnippets.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=HighLo
+2=AssortedCodeSnippets
+-- END DICTIONARY
+-- START TREE 1
+4
+blu|1|blueBox!11@
+cor|1|correct!11@
+num|1|numberBag!19@
+whi|2|whiteBox!11@whiteBox!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

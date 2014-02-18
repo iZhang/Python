@@ -1,0 +1,14 @@
+INSTUPjotto_model
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\LA Jotto\src\jotto_model.py
+INFOS:&&3|1|2|0&&3|3|2|0&&3|4|2|0&&3|5|2|0&&2|6|2|0&&2|7|2|0&&2|8|2|0&&2|9|2|0&&2|10|2|0&&2|11|2|0
+get_guess=8
+start_game=7
+_compGuess=1
+guess_count=10
+_possiblewords=5
+process_common_last=9
+_guessCount=3
+jotto_model=2
+commonCount=11
+_wordlist=4
+load_words=6

@@ -1,0 +1,18 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\.metadata\.plugins\org.eclipse.core.resources\.projects\06spring11_lab1\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+graphing|0|C:\Users\Jimmy\Documents\Schoolwork\Junior Year\2nd Semester\Compsci 101\Compsci 6\06spring11_lab1\src\graphing.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=graphing
+-- END DICTIONARY
+-- START TREE 1
+2
+dis|1|displayFunctionGraph!10@
+fun|1|functionToGraph!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

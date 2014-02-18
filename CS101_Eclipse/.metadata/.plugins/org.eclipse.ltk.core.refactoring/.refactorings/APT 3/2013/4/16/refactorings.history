@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CDPlayer.java&apos; to &apos;APT 7/src&apos;&#x0D;&#x0A;- Original project: &apos;APT 3&apos;&#x0D;&#x0A;- Destination element: &apos;APT 7/src&apos;&#x0D;&#x0A;- Original element: &apos;CDPlayer.java&apos;" description="Copy compilation unit" destination="=APT 7/src" element1="/src&lt;{CDPlayer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1366261730810" units="1" version="1.0"/>
+</session>

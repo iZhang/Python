@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;apt_silverdistance/src/silverdistance.py&apos; to &apos;SilverDistance.py&apos;" description="Rename resource &apos;silverdistance.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/silverdistance.py" name="SilverDistance.py" stamp="1356452286210" updateReferences="true"/>
+</session>
